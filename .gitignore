@@ -1,0 +1,52 @@
+# ===== Large Data Directory =====
+# DeepWheel dataset (14K+ files: .png, .stp, .stl)
+data/
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Virtual Environments =====
+.venv/
+venv/
+env/
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== IDE =====
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ===== Generated PDF (regenerable from .docx) =====
+QM640_Interim_Report_Mahil_KR.pdf
+
+# ===== Report Generation Script =====
+generate_report.py
+
+# ===== Reference / Helper Files (not part of deliverable) =====
+Analysis_Checklist.md
+COMPLETE_PACKAGE_SUMMARY.md
+Quick_Reference_Guide.md
+Report_Sections_Guide.md
+QM640_Final_Synopsis_Mahil_KR.md
+
+# ===== Rubric & Template =====
+Rubric - Capstone Project Interim Draft Report.pdf
+QM 640 Interim Report template-1.docx
+
+# ===== Synopsis Documents =====
+QM 640 Intrim Synopsis - Mahil K R.docx
+QM640_Final_Synopsis_Mahil_KR.docx

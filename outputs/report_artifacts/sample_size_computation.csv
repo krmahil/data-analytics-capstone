@@ -1,0 +1,5 @@
+Research Question,Statistical Method,Required n,Available n,Adequate,Power
+RQ1,CI for proportion,323,904,✓,>95%
+RQ2,Correlation (r=0.20),194,904,✓,>95%
+RQ3,Logistic regression (EPV=15),500,904,✓,>90%
+RQ4,Two-sample t-test (d=0.5),126,904,✓,>99%
